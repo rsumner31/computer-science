@@ -83,7 +83,7 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-**Curriculum version**: `7.2.2` (see [CHANGELOG](CHANGELOG.md))
+**Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -190,7 +190,8 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | pre-calculus
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
 [Calculus One](https://www.coursera.org/learn/calculus1)<sup>*1*</sup> ([alt](https://mooculus.osu.edu/)) | 16 weeks | 8-10 hours/week | pre-calculus
 [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)| 7 weeks | 9-10 hours/week | Calculus One
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | 13 weeks | 5 hours/week | single variable calculus (Calculus Two)
@@ -245,18 +246,9 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Algorithms (1/4)](https://www.coursera.org/learn/algorithms-divide-conquer)<sup>1</sup> | 4 weeks | 4-8 hours/week | one programming language, proofs, probability
-[Algorithms (2/4)](https://www.coursera.org/learn/algorithms-graphs-data-structures)<sup>1</sup> | 4 weeks | 4-8 hours/week | Algorithms (1/4)
-[Algorithms (3/4)](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Algorithms (2/4)
-[Algorithms (4/4)](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Algorithms (3/4)
+[Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science
+[Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | 8 weeks | 4-8 hours/week | Part I
 
-**<sup>1</sup> Note**:
-Parts 1 and 2 of Stanford Algorithms is available as [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) through Stanford Lagunita.
-Unlike the Coursera version, quizzes and tests are auto-graded for free.
-If you are pursuing an optional certificate from Coursera, you will still need to complete parts 1 and 2 through Coursera.
-
-In spite of what it looks like, **these courses are free to access**.
-([How?](FAQ.md#are-coursera-courses-free-to-access))
 
 ### Core applications
 
@@ -314,7 +306,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | programming experience
 [LAFF: Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x) | 7 weeks | 6 hours/week | linear algebra
 [Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) | 12 weeks | - | C, algorithms
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
